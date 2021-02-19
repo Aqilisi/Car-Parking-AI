@@ -1,4 +1,4 @@
-This program places waiting cars inside a parking lot. It is just a fun project written in python.
+This program places waiting cars inside a parking lot. 
 
 Available methods: DFS, BFS, BestFS.
 
